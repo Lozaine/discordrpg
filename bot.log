@@ -1,0 +1,64 @@
+2025-08-30 10:07:01,702 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-30 11:17:21,953 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-30 11:17:21,953 - __main__ - INFO - Starting One Piece RPG Bot...
+2025-08-30 11:17:21,954 - discord.client - INFO - logging in using static token
+2025-08-30 11:17:22,417 - bot.client - INFO - Setting up bot...
+2025-08-30 11:17:22,711 - bot.client - INFO - Synced 6 slash commands
+2025-08-30 11:17:23,321 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 24343f29f4fb0c082491e52e2a98b40c).
+2025-08-30 11:17:25,338 - bot.client - INFO - 🌊 PetBot#0131 has awakened and is ready to sail the Grand Line!
+2025-08-30 11:17:25,339 - bot.client - INFO - Connected to 1 servers
+2025-08-30 11:17:25,339 - bot.client - INFO - Serving 1 pirates, marines, and revolutionaries
+2025-08-30 11:18:46,683 - bot.utils.data_manager - INFO - Saved new character: Zoro for user 1351501801798500362
+2025-08-30 11:18:46,898 - bot.commands.character - INFO - Character created: Zoro by user 1351501801798500362
+2025-08-30 11:30:29,786 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-30 11:30:29,786 - __main__ - INFO - Starting One Piece RPG Bot...
+2025-08-30 11:30:29,786 - discord.client - INFO - logging in using static token
+2025-08-30 11:30:30,194 - bot.client - INFO - Setting up bot...
+2025-08-30 11:30:30,621 - bot.client - INFO - Synced 6 slash commands
+2025-08-30 11:30:30,927 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 672728a55e9809751ddfa49873dad4ae).
+2025-08-30 11:30:32,931 - bot.client - INFO - 🌊 PetBot#0131 has awakened and is ready to sail the Grand Line!
+2025-08-30 11:30:32,931 - bot.client - INFO - Connected to 1 servers
+2025-08-30 11:30:32,931 - bot.client - INFO - Serving 1 pirates, marines, and revolutionaries
+2025-08-30 11:34:38,871 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-30 11:34:38,873 - __main__ - INFO - Starting One Piece RPG Bot...
+2025-08-30 11:34:38,873 - discord.client - INFO - logging in using static token
+2025-08-30 11:34:39,336 - bot.client - INFO - Setting up bot...
+2025-08-30 11:34:39,799 - bot.client - INFO - Synced 25 slash commands
+2025-08-30 11:34:40,079 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3bf10a0c93107b7ba2d36e1f9ba4d4f0).
+2025-08-30 11:34:42,082 - bot.client - INFO - 🌊 PetBot#0131 has awakened and is ready to sail the Grand Line!
+2025-08-30 11:34:42,082 - bot.client - INFO - Connected to 1 servers
+2025-08-30 11:34:42,082 - bot.client - INFO - Serving 1 pirates, marines, and revolutionaries
+2025-08-30 11:35:59,843 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-30 11:35:59,844 - __main__ - INFO - Starting One Piece RPG Bot...
+2025-08-30 11:35:59,844 - discord.client - INFO - logging in using static token
+2025-08-30 11:36:00,325 - bot.client - INFO - Setting up bot...
+2025-08-30 11:36:00,672 - bot.client - INFO - Synced 25 slash commands
+2025-08-30 11:36:00,969 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: acbd0cb846f64eb018fa5825097ce248).
+2025-08-30 11:36:02,984 - bot.client - INFO - 🌊 PetBot#0131 has awakened and is ready to sail the Grand Line!
+2025-08-30 11:36:02,984 - bot.client - INFO - Connected to 1 servers
+2025-08-30 11:36:02,984 - bot.client - INFO - Serving 1 pirates, marines, and revolutionaries
+2025-08-30 12:32:24,558 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-30 12:32:24,559 - __main__ - INFO - Starting One Piece RPG Bot...
+2025-08-30 12:32:24,559 - discord.client - INFO - logging in using static token
+2025-08-30 12:32:25,188 - bot.client - INFO - Setting up bot...
+2025-08-30 12:32:25,420 - bot.client - INFO - Synced 25 slash commands
+2025-08-30 12:32:26,055 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0971e6cf1888f6743a873485a13201b8).
+2025-08-30 12:32:28,058 - bot.client - INFO - 🌊 PetBot#0131 has awakened and is ready to sail the Grand Line!
+2025-08-30 12:32:28,058 - bot.client - INFO - Connected to 1 servers
+2025-08-30 12:32:28,058 - bot.client - INFO - Serving 1 pirates, marines, and revolutionaries
+2025-08-30 12:34:04,039 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-30 12:34:04,040 - __main__ - INFO - Starting One Piece RPG Bot...
+2025-08-30 12:34:04,040 - discord.client - INFO - logging in using static token
+2025-08-30 12:34:04,570 - bot.client - INFO - Setting up bot...
+2025-08-30 12:34:05,055 - bot.client - INFO - Synced 25 slash commands
+2025-08-30 12:34:05,368 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ee5ac19e0bc7c12211eeab6e9d491905).
+2025-08-30 12:34:07,381 - bot.client - INFO - 🌊 PetBot#0131 has awakened and is ready to sail the Grand Line!
+2025-08-30 12:34:07,381 - bot.client - INFO - Connected to 1 servers
+2025-08-30 12:34:07,381 - bot.client - INFO - Serving 1 pirates, marines, and revolutionaries
+2025-08-30 12:36:00,994 - bot.utils.data_manager - INFO - Updated character: Zoro for user 1351501801798500362
+2025-08-30 12:38:37,663 - bot.utils.data_manager - INFO - Saved new character: Robin for user 1246691365304274989
+2025-08-30 12:38:37,857 - bot.commands.character - INFO - Character created: Robin by user 1246691365304274989
+2025-08-30 12:40:21,553 - bot.utils.data_manager - INFO - Updated character: Robin for user 1246691365304274989
+2025-08-30 12:40:21,555 - bot.utils.data_manager - INFO - Updated character: Zoro for user 1351501801798500362
+2025-08-30 12:41:50,701 - bot.utils.system_manager - INFO - Started quest romance_dawn_revolutionary for Zoro
+2025-08-30 12:41:50,962 - bot.commands.quest - INFO - Quest romance_dawn_revolutionary started for Zoro

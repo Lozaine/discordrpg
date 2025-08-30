@@ -1,0 +1,14 @@
+{
+  "1351501801798500362": {
+    "romance_dawn_revolutionary": {
+      "user_id": "1351501801798500362",
+      "character_name": "Zoro",
+      "quest_id": "romance_dawn_revolutionary",
+      "status": "active",
+      "started_at": "2025-08-30T12:41:50.701656",
+      "completed_at": null,
+      "choices_made": {},
+      "objectives_state": []
+    }
+  }
+}

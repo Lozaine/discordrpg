@@ -1,0 +1,57 @@
+-- PostgreSQL schema for One Piece RPG Bot
+
+CREATE TABLE IF NOT EXISTS users (
+    id SERIAL PRIMARY KEY,
+    discord_id BIGINT UNIQUE NOT NULL,
+    username TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS characters (
+    id SERIAL PRIMARY KEY,
+    user_id INTEGER REFERENCES users(id) ON DELETE CASCADE,
+    name TEXT NOT NULL,
+    race TEXT,
+    origin TEXT,
+    dream TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS crews (
+    id SERIAL PRIMARY KEY,
+    name TEXT NOT NULL,
+    captain_id INTEGER REFERENCES users(id),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS ships (
+    id SERIAL PRIMARY KEY,
+    crew_id INTEGER REFERENCES crews(id) ON DELETE CASCADE,
+    name TEXT NOT NULL,
+    type TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS quests (
+    id SERIAL PRIMARY KEY,
+    name TEXT NOT NULL,
+    description TEXT,
+    status TEXT,
+    assigned_to INTEGER REFERENCES users(id),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS allies (
+    id SERIAL PRIMARY KEY,
+    name TEXT NOT NULL,
+    type TEXT,
+    description TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS reputation (
+    id SERIAL PRIMARY KEY,
+    user_id INTEGER REFERENCES users(id) ON DELETE CASCADE,
+    value INTEGER DEFAULT 0,
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

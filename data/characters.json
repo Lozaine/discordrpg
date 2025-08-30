@@ -1,0 +1,61 @@
+{
+  "1351501801798500362": [
+    {
+      "user_id": "1351501801798500362",
+      "name": "Zoro",
+      "race": "Mink",
+      "origin": "Ohara",
+      "dream": "Brave Warrior of the Sea",
+      "level": 1,
+      "experience": 100,
+      "bounty": 0,
+      "stats": {
+        "strength": 10,
+        "agility": 10,
+        "durability": 10,
+        "intelligence": 10
+      },
+      "created_at": "2025-08-30T11:18:46.683291",
+      "last_active": "2025-08-30T12:36:00.994629",
+      "faction": "Revolutionary Seed",
+      "ship_name": "",
+      "crew_id": "",
+      "devil_fruit": "",
+      "quests_completed": [],
+      "achievements": [],
+      "inventory": {
+        "Berry": 1500,
+        "Standard Sword": 1
+      }
+    }
+  ],
+  "1246691365304274989": [
+    {
+      "user_id": "1246691365304274989",
+      "name": "Robin",
+      "race": "Human",
+      "origin": "Loguetown",
+      "dream": "Brave Warrior of the Sea",
+      "level": 2,
+      "experience": 70,
+      "bounty": 5000000,
+      "stats": {
+        "strength": 12,
+        "agility": 12,
+        "durability": 12,
+        "intelligence": 12
+      },
+      "created_at": "2025-08-30T12:38:37.663427",
+      "last_active": "2025-08-30T12:40:21.553798",
+      "faction": "Free Choice",
+      "ship_name": "",
+      "crew_id": "",
+      "devil_fruit": "",
+      "quests_completed": [],
+      "achievements": [],
+      "inventory": {
+        "Berry": 500
+      }
+    }
+  ]
+}
